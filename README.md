@@ -6,5 +6,5 @@ The present research work is intended to show how a domain specific lexical sema
 
 **Links**
 
-Online version of the thesis: https://theses.hal.science/tel-03705693
-Related LREC publication : http://www.lrec-conf.org/proceedings/lrec2020/pdf/2020.lrec-1.280.pdf
+- Online version of the thesis: https://theses.hal.science/tel-03705693
+- Related LREC publication : http://www.lrec-conf.org/proceedings/lrec2020/pdf/2020.lrec-1.280.pdf
