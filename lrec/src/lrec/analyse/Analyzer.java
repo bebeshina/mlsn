@@ -43,10 +43,10 @@ package lrec.analyse;
 		public static final File stopfile=new File("resources/stopwords.txt");
 		
 		static final String DB_DRIVER = "com.mysql.jdbc.Driver";  
-		static final String DB_CONNECTION = "jdbc:mysql://localhost/karadoc.lirmm.fr?useUnicode=yes&characterEncoding=UTF-8";
+		static final String DB_CONNECTION = "";
 		static final String DBNAME="lemma";//nom de la table
-		static final String DB_USER = "root";
-		static final String DB_PASSWORD = "texte2017";
+		static final String DB_USER = "";
+		static final String DB_PASSWORD = "";
 		
 		private Connection connection;
 		/**
